@@ -1,0 +1,9 @@
+.ColorBoard{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ColorBoard div{
+height: 200px;
+width: 200px;
+}
